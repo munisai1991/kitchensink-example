@@ -30,4 +30,4 @@ source points to `java:jboss/datasources/PostgreSQLDS`:
 
     <jta-data-source>java:jboss/datasources/PostgreSQLDS</jta-data-source>
 
-Commit this change, and push.
+Commit this change and push.
